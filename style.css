@@ -5,6 +5,15 @@
 }
 
 
+
+.article {
+  color: green;
+  background-color: beige;
+  /* background-color: beige; */
+  width: 500px;
+}
+
+
 .button1 {
   background-color: green;
   /* background-color: #4CAF50; */
